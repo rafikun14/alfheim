@@ -1,1 +1,1 @@
-worker:node Ragnarök.js
+worker:node index.js
